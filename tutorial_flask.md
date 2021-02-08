@@ -41,3 +41,6 @@ C:\Users\Name\platzi-flask> myvenv\Scripts\activate
 ```
 Fuente de texto: https://tutorial.djangogirls.org/es/django_installation/
 
+y creamos nuestra simulacion de flask en python:
+
+<img src=https://i.imgur.com/uMPh6Ea.gif >
